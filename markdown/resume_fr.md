@@ -1,23 +1,38 @@
 Tristan Cabel
-============
+=============
 
 ----
 
-> Ingénieur calcul haute performances, machine learning
-
+-------------------------------------   ------------------------------
+Ingénieur calcul haute performances          <tristan.cabel@gmail.com>
+machine learning                                  +33 (0)6 66 51 70 60
+                                          6 bis avenue Etienne Caremil
+                                                  06130 GRASSE, France
+                                                 34 ans • Permis A + B
+-------------------------------------   ------------------------------
 ----
 
-Education and Certifications
----------
+Compétences spécifiques : **Expertise**/*Connaissance*
+--------------------
 
-2017
-: Professional Scrum Master (PSM1) *[credential](https://www.scrum.org/user/277006)*
+Programming
+: **C/C++**, **Python**, CUDA, Python, scala
 
-2004-2009
-:   **Ingénieur en Systèmes et Réseaux de Communication (SRC)**, INSA (Rennes)
+Libraries
+: **SWIG**, **Qt**, **PyTorch**, Tensorflow, xtensor, OpenMP, MPI, Doxygen, HDF5, VTK,
 
-2004
-:   **Baccalauréat série Scientifique avec la mention Bien**, La Roche sur Yon (France)
+Compilers/Tools
+: **GCC**, **Emacs**, **GDB**, **CMake**, **Git**, Valgrind, VTune, QlikSense
+
+OS
+: **Ubuntu**, Fedora, Windows
+
+Méthodes
+: **SCRUM**, Design Patterns, Intégration continue
+
+Langues
+: **Francais**, **Anglais**
+
 
 Experience
 ----------
@@ -43,15 +58,14 @@ Experience
 > INRIA est un organisme public de recherche, dédié aux sciences et technologies du numérique.
 
  * Participation au développement d’une plateforme pour le développement d’applications scientifiques en C++ : (https://gitlab.inria.com/dtk/). Focus sur la visualisation (Paraview Catalyst, VTK), le parallélisme (MPI3, OpenMP), les solveurs linéaires creux (Hypre, MaPHyS, Pastix), les tests (Jenkins, CTest), l’architecture du code (design patterns).
- * Gestion des relations avec un partenaire industriel (ANDRA) et profiling/optimisation/intégration de leur logiciel de transport réactif en milieux poreux (TRACES) à la plateforme dtk dans le cadre d'une action d'envergure Inria (http://www-sop.inria.fr/c2s_at_exa/). Présentation des résultats à SuperComputing 2015 à Austin, TX.
- * Participation au « Work Package » 7 du projet PRACE 4IP:portage de TRACES sur le cluster OCCIGEN du CINES et simulations jusqu'à 1000 cœurs.
+ * Gestion des relations avec un partenaire industriel (ANDRA) et profiling/optimisation/intégration de leur logiciel à la plateforme dtk dans le cadre d'une action d'envergure Inria (http://www-sop.inria.fr/c2s_at_exa/). Présentation des résultats à SuperComputing 2015 à Austin, TX.
+ * Participation au « Work Package » 7 du projet PRACE 4IP:portage du code de simulation sur le cluster OCCIGEN du CINES et simulations jusqu'à 1000 cœurs.
 
 
 **01/2014-10/2014	Ingénieur de recherche CINES** (Montpellier)
 > Le C.I.N.E.S. (Centre Informatique National de l’Enseignement Supérieur) est un établissement public national qui est un des 3 centres de calcul nationaux Français.
 
 * Support L2 aux utilisateurs du supercalculateur JADE (267 Tflop/s, 23040 cœurs)
-* Veille technologique sur les technologies HPC
 * Participations à divers « Work Package » du projet PRACE 3IP:
    - WP5 : optimisation d’un code de comparaison de séquences ADN en utilisant des Intel MIC
    - WP7 : benchmarking de codes sur des machines TIER-0
@@ -61,7 +75,6 @@ Experience
 > Temasek Lab est un laboratoire de recherche de la“National University of Singapore” (NUS) promouvant les collaborations entre le ministère de la défense de Singapour et NUS.
 
 * Amélioration d’un code de calcul électromagnétique : compilation sous CMake, documentation avec Doxygen, programmation GPU avec OpenCL.
-* Intégration de la librairie StarPU pour utiliser de manière concurrente un CPU et un GPU.
 * Participation à l’achat et l’administration d’une Workstation avec 4 GPUs: rédaction des spécifications, installation de l’OS (CentOS 6) et des softwares, création et support des utilisateurs.
 * Support sur les technologies GPGPU (CUDA, OpenCL, StarPU).
 
@@ -74,35 +87,20 @@ Experience
 * Intégration du code de l'équipe à une plateforme de simulation numérique en C++ développée à l’INRIA
 
 
-Compétences spécifiques : **Expertise**/*Connaissance*
---------------------
+Education and Certifications
+---------
 
-Programming
-: **C/C++**, **Python**, CUDA, Python, scala
+2017
+: Professional Scrum Master (PSM1) *[credential](https://www.scrum.org/user/277006)*
 
-Libraries
-: **SWIG**, **Qt**, **PyTorch**, Tensorflow, xtensor, OpenMP, MPI, Doxygen, HDF5, VTK,
+2004-2009
+:   **Ingénieur en Systèmes et Réseaux de Communication (SRC)**, INSA (Rennes)
 
-Compilers/Tools
-: **GCC**, **Emacs**, **GDB**, **CMake**, **Git**, Valgrind, VTune, Allinea DDT, Paraview, QlikSense
-
-OS
-: **Ubuntu**, Fedora, Windows
-
-Méthodes
-: **SCRUM**, Design Patterns, Intégration continue
-
-Langues
-: **Francais**, **Anglais**
-
+2004
+:   **Baccalauréat série Scientifique avec la mention Bien**, La Roche sur Yon (France)
 
 Centres d'intérêts
 ---------
 
 * **Sport** :	Rugby, triathlon, course à pied, kung-fu, kickboxing
 * **Danse** :	Salsa & Bachata (5 ans de pratique)
-
-----
-
-> <tristan.cabel@gmail.com> • +33 (0)6 66 51 70 60 • 34 ans • Permis A + B
-> 6 bis avenue Etienne Caremil, 06130 GRASSE, France
